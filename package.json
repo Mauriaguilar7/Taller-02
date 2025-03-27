@@ -1,0 +1,27 @@
+{
+  "name": "taller-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauriaguilar7/Taller-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauriaguilar7/Taller-02/issues"
+  },
+  "homepage": "https://github.com/Mauriaguilar7/Taller-02#readme",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "commitlint-config-gitmoji": "^2.3.1",
+    "husky": "^9.1.7"
+  }
+}
